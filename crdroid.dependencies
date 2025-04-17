@@ -13,7 +13,7 @@
     "branch": "15.0-redwood"
   },
   {
-    "repository": "crdroidandroid/proprietary_vendor_xiaomi_redwood",,
+    "repository": "crdroidandroid/proprietary_vendor_xiaomi_redwood",
     "target_path": "vendor/xiaomi/redwood-miuicamera",
     "branch": "15.0-miuicamera"
   }
